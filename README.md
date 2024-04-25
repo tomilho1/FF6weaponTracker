@@ -16,6 +16,10 @@ Display weapon animation data of a weapon.
 Right hand animation index: $2B
 Left hand animation index: $2B
 Attack animation index: $1
+Weapon palette index: $20
+Attack palette index: $20
+Special attributes: 0b0
+Default sound effect: 164 ($A4)
 ...
 ```
 
