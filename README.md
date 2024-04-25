@@ -22,6 +22,12 @@ Special attributes: 0b0
 Default sound effect: 164 ($A4)
 ...
 ```
+Flags:
+- h: display header
+- w: display weapon animation data
+- r: display right hand animation graphics data
+- l: display left hand animation graphics data (skipped if same as right hand)
+- a: display attack animation graphics data
 
 ## trackAnim
 Display graphics data of an animation.
