@@ -1,0 +1,10 @@
+{
+    "ptr_itemData": "0x185000",
+    "ptr_itemNames": "0x12B300",
+    "ptr_descPointers": "0x2D7AA0",
+    "ptr_throwData": "0x110040",
+    "ptr_wpnAnimData": "0x2CE408",
+
+    "ptr_graphsData": "0x14D000",
+    "ptr_ptersAnimScripts": "0x11EAD8"
+}
