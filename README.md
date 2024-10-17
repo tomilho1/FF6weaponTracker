@@ -1,5 +1,5 @@
 # FF6weaponTracker
-Tools and scripts to track and modify weapon data in Final Fantasy 6. Requires node.js.
+Tools and scripts to track and modify weapon data in Final Fantasy 6. These were written specifically for the development of my [FF6 Weapons Mod project](https://www.ff6hacking.com/forums/thread-4398.html). Requires node.js.
 
 # Scripts
 **In **scripts/path.txt**, write the path for your rom.**
